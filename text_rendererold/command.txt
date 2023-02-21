@@ -1,0 +1,1 @@
+--num_img 100 --chars_file ./data/chars/eng.txt --config_file ./configs/test.yaml --fonts_list ./data/fonts_list/eng.txt --bg_dir ./data/bg --corpus_dir ./data/corpus --corpus_mode eng --output_dir new --strict --viz
